@@ -13,3 +13,6 @@
 [submodule "greenatom-serialization"]
 	path = greenatom-serialization
 	url = https://github.com/ZmaevDA/greenatom-serialization
+[submodule "greenatom-console-filemanager"]
+	path = greenatom-console-filemanager
+	url = https://github.com/ZmaevDA/greenatom-console-filemanager
