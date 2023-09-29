@@ -1,3 +1,6 @@
 [submodule "greenatom-battleship"]
 	path = greenatom-battleship
 	url = https://github.com/ZmaevDA/greenatom-battleship
+[submodule "greenatom-test-task"]
+	path = greenatom-test-task
+	url = https://github.com/ZmaevDA/greenatom-test-task
