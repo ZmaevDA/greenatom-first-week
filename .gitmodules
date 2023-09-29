@@ -4,3 +4,9 @@
 [submodule "greenatom-test-task"]
 	path = greenatom-test-task
 	url = https://github.com/ZmaevDA/greenatom-test-task
+[submodule "greenatom-exceptions"]
+	path = greenatom-exceptions
+	url = https://github.com/ZmaevDA/greenatom-exceptions
+[submodule "greenatom-collections-measure"]
+	path = greenatom-collections-measure
+	url = https://github.com/ZmaevDA/greenatom-collections-measure
