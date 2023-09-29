@@ -10,3 +10,6 @@
 [submodule "greenatom-collections-measure"]
 	path = greenatom-collections-measure
 	url = https://github.com/ZmaevDA/greenatom-collections-measure
+[submodule "greenatom-serialization"]
+	path = greenatom-serialization
+	url = https://github.com/ZmaevDA/greenatom-serialization
