@@ -16,3 +16,6 @@
 [submodule "greenatom-console-filemanager"]
 	path = greenatom-console-filemanager
 	url = https://github.com/ZmaevDA/greenatom-console-filemanager
+[submodule "greenatom-streamapi"]
+	path = greenatom-streamapi
+	url = .\\greenatom-streamapi\\
