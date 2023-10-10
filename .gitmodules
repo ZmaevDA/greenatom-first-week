@@ -19,3 +19,6 @@
 [submodule "greenatom-streamapi"]
 	path = greenatom-streamapi
 	url = https://github.com/ZmaevDA/greenatom-streamapi
+[submodule "greenatom-multithreading"]
+	path = greenatom-multithreading
+	url = https://github.com/ZmaevDA/greenatom-multithreading
