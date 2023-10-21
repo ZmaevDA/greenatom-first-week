@@ -22,3 +22,9 @@
 [submodule "greenatom-multithreading"]
 	path = greenatom-multithreading
 	url = https://github.com/ZmaevDA/greenatom-multithreading
+[submodule "greenatom-jdbc"]
+	path = greenatom-jdbc
+	url = https://github.com/ZmaevDA/greenatom-jdbc
+[submodule "greenatom-hibernate"]
+	path = greenatom-hibernate
+	url = https://github.com/ZmaevDA/greenatom-hibernate
